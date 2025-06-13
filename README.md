@@ -35,4 +35,4 @@ python3 main.py
 
 # Project Demo
 ## Video Demo
-![Output Example](Transcriptor/Video/demo.mp4)
+![Output Example](Transcriptor/Video/demo.gif)
