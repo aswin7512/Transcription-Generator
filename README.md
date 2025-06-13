@@ -35,6 +35,4 @@ python3 main.py
 
 # Project Demo
 ## Video Demo
-<video width="200%" height="200%" alt="Video Demo" controls>
-<source src="Transcriptor/Video/demo.mp4" type="video/mp4">
-</video>
+![Output Example](Transcriptor/Video/demo.mp4)
